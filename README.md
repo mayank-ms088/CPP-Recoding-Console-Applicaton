@@ -7,6 +7,9 @@ Developed a Console APP using C++ and OpenCV
 ### APP Usage:
 * Start with Setting the Username and Password.
 * Login with same Username and Password and use the app.
+NOTE: You should have openCV version 4.1.2 installed on your computer.
+
+Here is the link to download <a href="https://github.com/opencv/opencv/releases/download/4.1.2/opencv-4.1.2-vc14_vc15.exe" download="opencv-4.1.2-vc14_vc15.exe"><b><I>OPENCV</I></b></a>
 
 <a href="https://github.com/montooboss1999/CPP-Recoding-Console-Applicaton/raw/main/CPP_APP.exe" download="CPP_APP.exe"><b><I>Download link for .exe file</I></b></a>
 ### For Windows you can directly click the .exe file you downloaded from above link to run the APP.
