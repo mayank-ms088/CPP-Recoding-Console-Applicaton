@@ -5,4 +5,4 @@ Developed a Console APP using C++ and OpenCV
 * I also Added a gaussian filter to these frames.
 * Stored this video on the disk of the user.
 
-<a href="https://github.com/montooboss1999/CPP-Recoding-Console-Applicaton/raw/main/CPP_APP.exe" download="CPP_APP.exe">TITLE</a>
+<a href="https://github.com/montooboss1999/CPP-Recoding-Console-Applicaton/raw/main/CPP_APP.exe" download="CPP_APP.exe"><b><I>Download link for Windows</I></b></a>
