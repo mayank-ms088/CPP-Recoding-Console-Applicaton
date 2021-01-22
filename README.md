@@ -8,4 +8,14 @@ Developed a Console APP using C++ and OpenCV
 * Start with Setting the Username and Password.
 * Login with same Username and Password and use the app.
 
-<a href="https://github.com/montooboss1999/CPP-Recoding-Console-Applicaton/raw/main/CPP_APP.exe" download="CPP_APP.exe"><b><I>Download link for Windows</I></b></a>
+<a href="https://github.com/montooboss1999/CPP-Recoding-Console-Applicaton/raw/main/CPP_APP.exe" download="CPP_APP.exe"><b><I>Download link for .exe file</I></b></a>
+### For Windows you can directly click the .exe file you downloaded from above link to run the APP.
+### For Linux You should Use "Wine"
+Execute Following Commands:
+* sudo apt-get install wine
+
+and then execute this to run the application
+* wine dir/CPP_APP.exe
+
+replace dir with directory name in which you downloaded the APPLICATION.
+
