@@ -7,7 +7,8 @@ Developed a Console APP using C++ and OpenCV
 ### APP Usage:
 * Start with Setting the Username and Password.
 * Login with same Username and Password and use the app.
-NOTE: You should have openCV version 4.1.2 installed on your computer.
+
+NOTE: You should have openCV version 4.1.2 installed and added to Environment Path Variables on your computer.
 
 Here is the link to download <a href="https://github.com/opencv/opencv/releases/download/4.1.2/opencv-4.1.2-vc14_vc15.exe" download="opencv-4.1.2-vc14_vc15.exe"><b><I>OPENCV</I></b></a>
 
