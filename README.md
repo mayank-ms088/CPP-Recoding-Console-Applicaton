@@ -5,4 +5,4 @@ Developed a Console APP using C++ and OpenCV
 * I also Added a gaussian filter to these frames.
 * Stored this video on the disk of the user.
 
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/CPP_APP.exe">Click here to download .exe file</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/CPP_APP.exe">Download APP for Windows</a>
