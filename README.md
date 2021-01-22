@@ -17,5 +17,5 @@ Execute Following Commands:
 and then execute this to run the application
 * wine dir/CPP_APP.exe
 
-Replace dir with the path of directory in which you downloaded the APPLICATION.
+Replace "dir" with the path of directory in which you downloaded the APPLICATION.
 
